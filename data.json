@@ -1,0 +1,34 @@
+[
+    {
+      "slug": "job-events",
+      "name": "Aprenda transformar sua empresa em uma Rede de Franquias",
+      "days": "24 de Março",
+      "hours": "18H00 - 20H00",
+      "localization": "Av. José de Souza Campos - Cambuí, Campinas - SP",
+      "preco": "R$10,00 por pessoa"
+    },
+    {
+      "slug": "mblabs-events",
+      "name": "MB Labs -> Renan Basso: Build a High performance organizacional culture",
+      "days": "24 de Outubro",
+      "hours": "17H00",
+      "localization": "haapa://zoomm.com",
+      "preco": "Gratuito"
+    },
+    {
+      "slug": "faculdade-events",
+      "name": "XPUC-Campinas",
+      "days": "18, 19 e 20 de Agosto",
+      "hours": "Dia inteiro, 24 horas por dia",
+      "localization": "google-clasroom",
+      "preco": "Gratuito"
+    },
+    {
+        "slug": "rocket-events",
+        "name": "Rocketseat -> O método 7-2-1 para você acessar sua primeira vaga como dev.",
+        "days": "3 de Março de 2022",
+        "hours": "19H00",
+        "localization": "YouTube",
+        "preco": "Gratuito"
+    }
+  ]
